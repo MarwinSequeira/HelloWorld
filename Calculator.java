@@ -4,6 +4,8 @@ class Calculator{
         int second_number = Integer.valueOf(args[1]);
         System.out.println("Addition of "+first_number+" and "+second_number+" is "+(first_number+second_number));
         System.out.println("Subtraction "+first_number+" and "+second_number+" is "+(first_number-second_number));
+        System.out.println("Multiplication of "+first_number+" and "+second_number+" is "+(first_number*second_number));
+        System.out.println("Division of "+first_number+" and "+second_number+" is "+(first_number/second_number));
 
     }
 }
