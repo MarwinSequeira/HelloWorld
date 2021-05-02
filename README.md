@@ -1,2 +1,3 @@
 # HelloWorld
-Test Repository for test Jenkins 
+Test Repository for practicing Jenkins
+
